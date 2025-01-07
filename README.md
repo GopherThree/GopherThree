@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello
+- Pronouns: They/he
+- Fun Fact: I like gophers
 
 <!--
 **GopherThree/GopherThree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
